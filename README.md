@@ -1,5 +1,4 @@
 # CPE-019 
-<img src=![image]" width="200" /> 
 
 
 
